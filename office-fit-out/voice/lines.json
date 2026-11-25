@@ -1,0 +1,44 @@
+[
+ {
+  "id": "v1",
+  "text": "An empty floor. Concrete, columns, glass.",
+  "voice": "bf_emma",
+  "speed": 0.95
+ },
+ {
+  "id": "v2",
+  "text": "The fit-out arrives in layers, held apart on one axis.",
+  "voice": "bf_emma",
+  "speed": 0.95
+ },
+ {
+  "id": "v3",
+  "text": "Desks that travel from seated to standing height.",
+  "voice": "bf_emma",
+  "speed": 0.95
+ },
+ {
+  "id": "v4",
+  "text": "Chairs built to fit nearly everyone.",
+  "voice": "bf_emma",
+  "speed": 0.95
+ },
+ {
+  "id": "v5",
+  "text": "Screens, light, a quiet booth, something green.",
+  "voice": "bf_emma",
+  "speed": 0.95
+ },
+ {
+  "id": "v6",
+  "text": "Then, the people.",
+  "voice": "bf_emma",
+  "speed": 0.95
+ },
+ {
+  "id": "v7",
+  "text": "A model, built to the guideline's own ranges.",
+  "voice": "bf_emma",
+  "speed": 0.95
+ }
+]

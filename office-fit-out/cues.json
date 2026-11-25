@@ -1,0 +1,51 @@
+[
+ {
+  "id": "v1",
+  "t0": 0.55,
+  "t1": 3.994,
+  "en": "An empty floor. Concrete, columns, glass.",
+  "text": "An empty floor. Concrete, columns, glass."
+ },
+ {
+  "id": "v2",
+  "t0": 5.5,
+  "t1": 9.596,
+  "en": "The fit-out arrives in layers, held apart on one axis.",
+  "text": "The fit-out arrives in layers, held apart on one axis."
+ },
+ {
+  "id": "v3",
+  "t0": 12.95,
+  "t1": 16.331,
+  "en": "Desks that travel from seated to standing height.",
+  "text": "Desks that travel from seated to standing height."
+ },
+ {
+  "id": "v4",
+  "t0": 20.55,
+  "t1": 23.234,
+  "en": "Chairs built to fit nearly everyone.",
+  "text": "Chairs built to fit nearly everyone."
+ },
+ {
+  "id": "v5",
+  "t0": 27.85,
+  "t1": 31.037,
+  "en": "Screens, light, a quiet booth, something green.",
+  "text": "Screens, light, a quiet booth, something green."
+ },
+ {
+  "id": "v6",
+  "t0": 34.15,
+  "t1": 36,
+  "en": "Then, the people.",
+  "text": "Then, the people."
+ },
+ {
+  "id": "v7",
+  "t0": 37.25,
+  "t1": 40.527,
+  "en": "A model, built to the guideline's own ranges.",
+  "text": "A model, built to the guideline's own ranges."
+ }
+]

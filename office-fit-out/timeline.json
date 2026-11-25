@@ -1,0 +1,74 @@
+{
+ "BPM": 96,
+ "T": {
+  "sil1": 4.4,
+  "stackIn": 5,
+  "carpet": 5.9375,
+  "labelsIn": 7.5,
+  "labelsOut": 12.1875,
+  "desk": 12.5,
+  "rise": 14.375,
+  "riseEnd": 16.875,
+  "chair": 20,
+  "acc": 27.5,
+  "lights": 30.625,
+  "sil2": 32.5,
+  "people": 33.75,
+  "ceil": 36.25,
+  "dims": 40,
+  "title": 41.25,
+  "end": 45
+ },
+ "VO": [
+  {
+   "id": "v1",
+   "t": 0.6,
+   "say": "An empty floor. Concrete, columns, glass.",
+   "en": "An empty floor. Concrete, columns, glass."
+  },
+  {
+   "id": "v2",
+   "t": 5.55,
+   "say": "The fit-out arrives in layers, held apart on one axis.",
+   "en": "The fit-out arrives in layers, held apart on one axis."
+  },
+  {
+   "id": "v3",
+   "t": 13,
+   "say": "Desks that travel from seated to standing height.",
+   "en": "Desks that travel from seated to standing height."
+  },
+  {
+   "id": "v4",
+   "t": 20.6,
+   "say": "Chairs built to fit nearly everyone.",
+   "en": "Chairs built to fit nearly everyone."
+  },
+  {
+   "id": "v5",
+   "t": 27.9,
+   "say": "Screens, light, a quiet booth, something green.",
+   "en": "Screens, light, a quiet booth, something green."
+  },
+  {
+   "id": "v6",
+   "t": 34.2,
+   "say": "Then, the people.",
+   "en": "Then, the people."
+  },
+  {
+   "id": "v7",
+   "t": 37.3,
+   "say": "A model, built to the guideline's own ranges.",
+   "en": "A model, built to the guideline's own ranges."
+  }
+ ],
+ "LAND": {
+  "carpet": 7.3375,
+  "desk": 12.5,
+  "chair": 20,
+  "acc": 27.5,
+  "people": 33.75,
+  "ceil": 36.25
+ }
+}

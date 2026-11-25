@@ -1,0 +1,26 @@
+Fitted: an office floor, from shell to work (Exploded Teardown style)
+
+Picture, models, score and sound effects: made in code for this film. The office, its furniture and its people are
+models built from published ergonomic dimension ranges (see FACTS.md); no third-party 3D models are used.
+
+Fonts
+- Inter, by Rasmus Andersson and the Inter project authors. SIL Open Font License 1.1 (fonts/OFL-inter.txt). https://github.com/google/fonts/tree/main/ofl/inter
+- JetBrains Mono, by JetBrains. SIL Open Font License 1.1 (fonts/OFL-jetbrainsmono.txt). https://github.com/google/fonts/tree/main/ofl/jetbrainsmono
+
+Lighting
+- "Photo Studio Loft Hall" HDRI, Poly Haven. CC0. https://polyhaven.com/a/photo_studio_loft_hall
+
+Music samples (CC0)
+- FreePats project (freepats.zenvoid.org)
+- VS Chamber Orchestra: Community Edition (Versilian Studios)
+- Versilian Community Sample Library (Versilian Studios)
+
+Voice
+- Narration synthesised with Kokoro (kokoro-onnx, model kokoro-v1.0), voice bf_emma. Apache License 2.0. https://github.com/thewh1teagle/kokoro-onnx
+- Narration checked with faster-whisper (model small.en). MIT. https://github.com/SYSTRAN/faster-whisper
+
+Software
+- three.js r170. MIT. https://threejs.org
+- FFmpeg, used to encode and master the film. LGPL/GPL.
+
+Sources for the numbers on screen: FACTS.md.
